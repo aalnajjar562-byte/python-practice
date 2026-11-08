@@ -23,6 +23,7 @@ def main():
 
     else:
         print(f"- {item} {price}$")
+        print("ced")
 
 
 main()
